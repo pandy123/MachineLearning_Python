@@ -1,4 +1,5 @@
 #-*- coding: utf-8 -*-
+# BP神经网络识别手写数字
 import numpy as np
 from scipy import io as spio
 from matplotlib import pyplot as plt
